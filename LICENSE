@@ -12,3 +12,13 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License."
  http://www.apache.org/licenses/LICENSE-2.0
+
+<!--
+This XML file declares which signature|privileged permissions should be granted to privileged
+applications that come with the platform
+-->
+
+NOTE:
+    The permissions specified below are intended to be non-revocable—
+    once placed on the system by any process, they should not be removed.
+    (This is comprehensive systemwide privileges once installed as disclosed privileged permissions.xml file to the proper system partitions.)
